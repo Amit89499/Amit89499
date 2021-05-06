@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning NLP
 - 💞 I’m looking to collaborate on any Machine learning or Deep Learning based projects
 - 💬 Ask me anything related to C,C++,Python,Machine Learning
-- 📫 How to reach me: [My Linkedln Profile](https://www.linkedin.com/in/amit-khandelwal-72216b190) or [Email](mailto:amitkhandelwal89499@gmail.com? subject=[GitHub])
+- 📫 How to reach me: [My Linkedln Profile](https://www.linkedin.com/in/amit-khandelwal-72216b190) or [Email](mailto:amitkhandelwal89499@gmail.com?) subject=[GitHub])
 
 <!--
 **Amit89499/Amit89499** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
