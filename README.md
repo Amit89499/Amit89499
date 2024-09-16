@@ -1,11 +1,11 @@
-### Hi there 👋
-- This is Amit Khandelwal here.
-- Currently I am Exploring the field of data science. I've always been passionate about Mathematics and how maths is used to solve real world problems. There I found data science as a field of interest where you can play with data using Machine learning and deep learning and various mathematical algorithms and I would also like to get a hands on the real world industry projects.
-- 🔭 I’m currently working on Machine Learning and Deep Learning
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning NLP
-- 💞 I’m looking to collaborate on any Machine learning or Deep Learning based projects
-- 💬 Ask me anything related to C,C++,Python,Machine Learning
+Hi there 👋
+- I'm Amit Khandelwal, a Software Engineer at Airlinq Technologies with 1.5 years of hands-on experience in data engineering.
+- My expertise spans Python, PySpark, Kafka, Spark, Airflow, NiFi, and SQL, driving impactful solutions through data pipelines and optimizations.
+- 🔭 Currently working on: Developing data ETL pipelines using Python, PySpark, Airflow, and NiFi to migrate large datasets, having successfully migrated around 2 million customer data records with a focus on accuracy and performance.
+- 👀 Interested in: Exploring the latest innovations in data engineering and machine learning.
+- 🌱 Learning: Diving deeper into Azure Databricks, ADLS Gen 2 and its application in data engineering.
+- 💞 Looking to collaborate on Exciting machine learning, deep learning, or data engineering projects.
+- 💬 Ask me anything related to Python, Data Engineering, PySpark, Kafka, NiFi, Airflow, and SQL.
 - 📫 How to reach me: [My Linkedln Profile](https://www.linkedin.com/in/amit-khandelwal-72216b190) or [Email](mailto:amitkhandelwal89499@gmail.com?subject=[GitHub])
 
 <!--
