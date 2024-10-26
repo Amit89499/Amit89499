@@ -1,8 +1,8 @@
 Hi there 👋
-- I'm Amit Khandelwal, a Software Engineer at Airlinq Technologies with 1.5 years of hands-on experience in data engineering.
+- I'm Amit Khandelwal, a Software Engineer at Airlinq Technologies with 2+ years of hands-on experience in data engineering.
 - My expertise spans Python, PySpark, Kafka, Spark, Airflow, NiFi, and SQL, driving impactful solutions through data pipelines and optimizations.
 - 🔭 Currently working on: Developing data ETL pipelines using Python, PySpark, Airflow, and NiFi to migrate large datasets, having successfully migrated around 2 million customer data records with a focus on accuracy and performance.
-- 👀 Interested in: Exploring the latest innovations in data engineering and machine learning.
+- 👀 Interested in Exploring the latest innovations in data engineering and machine learning.
 - 🌱 Learning: Diving deeper into Azure Databricks, ADLS Gen 2 and its application in data engineering.
 - 💞 Looking to collaborate on Exciting machine learning, deep learning, or data engineering projects.
 - 💬 Ask me anything related to Python, Data Engineering, PySpark, Kafka, NiFi, Airflow, and SQL.
